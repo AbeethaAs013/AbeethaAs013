@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on LinkedIn
 - 🤔 I’m looking for help with Lecture materials and documentations
 - 💬 Ask me about Something you want 
-- 📫 How to reach me: Linked or Twitter
+- 📫 How to reach me: Abeetha As Asahara | LinkedIn
 - 😄 Pronouns: He/His 
 - ⚡ Fun fact: I am Really enjoying Listening music with works
 
