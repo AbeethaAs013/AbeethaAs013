@@ -1,3 +1,6 @@
+
+<img src="https://user-images.githubusercontent.com/72795289/126611089-bee6ba95-dc2f-4078-bea8-6bc39d0931ca.png" width="200" >
+
 ### Hi, I'm Abeetha As Asahara 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abeetha013&label=Profile%20views&color=0e75b6&style=flat" alt="abeetha013" /> </p>
