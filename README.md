@@ -12,4 +12,6 @@
 - 😄 Pronouns: He/His/Abeetha.
 - ⚡ Fun fact: I am Really enjoying Listening music with works.
 
+<hr>
+
 <img src="https://github-readme-stats.vercel.app/api?username=AbeethaAs013&&show_icons=true&title_color=red&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
