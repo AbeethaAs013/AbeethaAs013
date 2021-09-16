@@ -1,5 +1,7 @@
 ### Hi, I'm Abeetha As Asahara 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abeetha013&label=Profile%20views&color=0e75b6&style=flat" alt="abeetha013" /> </p>
+
 
 - 🔭 I’m currently working on Sri Lanka Institute of Information Technology as an undergraduate student.
 - 🌱 I’m currently learning Web application developments and Android Development.
